@@ -1,4 +1,5 @@
 # eMemory
+<<<<<<< HEAD
 A little memory down Emory - all my relevant coursework for these last 4 years
 
 In this repository, you will find all the code I have ever written for college courses (*outside of those done in hacker rank and other third party sites*). 
@@ -30,3 +31,6 @@ https://github.com/csdropout1/musAIc
 
 ### 7. CS 470 Data Mining
 Assignments are practical implementations of basic datamining techniques like clustering, dimensional reduction, and data cleaning using python. The final project, which involves creating a custom search engine based on HITs, pageRank, and simRank can be found on https://github.com/csdropout1/edusearch.
+=======
+A little memory down Emory - all my relevant coursework for these last 4 years (coding only)
+>>>>>>> a6a7c5056ea24a66cfe2841bc04143066c9e0cfc
