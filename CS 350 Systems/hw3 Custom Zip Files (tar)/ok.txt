@@ -1,0 +1,99 @@
+0000000 746d 7261 20d2 0000 0000 0000 0004 0000
+0000010 6574 7473 41ed 0000 7498 6552 0000 0000
+0000020 20d3 0000 0000 0000 000c 0000 6574 7473
+0000030 742f 7365 6474 7269 41ed 0000 7498 6552
+0000040 0000 0000 20d6 0000 0000 0000 0012 0000
+0000050 6574 7473 742f 7365 6474 7269 312f 6f66
+0000060 646c 41ed 0000 7498 6552 0000 0000 20d7
+0000070 0000 0000 0000 001f 0000 6574 7473 742f
+0000080 7365 6474 7269 312f 6f66 646c 692f 6d61
+0000090 6974 6572 2e64 7874 a474 0081 f600 5156
+00000a0 0065 0000 0000 0000 0000 0000 d800 0020
+00000b0 0000 0000 1e00 0000 7400 7365 2f74 6574
+00000c0 7473 6964 2f72 6631 6c6f 2f64 6f6e 6e74
+00000d0 6369 2e65 7874 a474 0081 f000 5156 0065
+00000e0 0000 0000 0000 0000 0000 d400 0020 0000
+00000f0 0000 1100 0000 7400 7365 2f74 6574 7473
+0000100 6964 2f72 6f66 646c 41ed 0000 7498 6552
+0000110 0000 0000 20d9 0000 0000 0000 0015 0000
+0000120 6574 7473 742f 7365 6474 7269 6e2f 6369
+0000130 2e65 7874 a474 0081 e800 5156 0065 0000
+0000140 0000 0000 0000 0000 d500 0020 0000 0000
+0000150 0e00 0000 7400 7365 2f74 6574 7473 6964
+0000160 2f72 ed33 0041 9800 5274 0065 0000 0000
+000016f
+
+mtar� 
+@@@@��cute�A��Re� ex-es-cute/mytar��MiRe�WELF>@�O@8
+      �
+       qq000��=MMx = M M�888 XXXDDS�td888 P�td�1�1�1��Q�tdR�td=MM��/lib64/ld-linux-x86-64.so.2GNU�GNU
+                                                                                                     �c'�Mn�l��u*1�GNU
+                                                                                                                      e�m9�2������ 
+                                                                                                                                  �s�_<�R3�X��M �f,lz� �"�@% P�(libc.so.6strcpyexitreaddirfopenoptindperrorclosedir__stack_chk_failfeoffgetccallocstrlenfseekgetoptfclosestrcatopendiroptargstderrfwritefreadfprintf__cxa_finalizestrcmp__libc_start_main__xstatGLIBC_2.4GLIBC_2.2.5_ITM_deregisterTMClon�uible__�P�O�Otart___ITM_registerTMCloneTableii
+              �O�O�O(P@P(O0O8O@OHOPOX`O hO
+pO
+�O�O�O�O�O�O�O�O�O�O�O��H�H��?H��t��H���5�>��%�>��h���������h���������h���������h��������h��������h��������h��������h��q��������a������h   ��Q������h
+��A������h
+          ��1������h
+��������h��������h���������h���������h���������h���������h��������h��������h����������%]>D����%}=D����%u=D����%m=D����%e=D����%]=D��H�=���<��H�=�<H��<H9�tH��<H��t<�����H�=�<H�5�<H)�H��H��?H��H�H��tH�e<H����fD�����=�<u+UH�=B<H��t
+                                                                                                 H�=F<������d����u<]������w�����UH��H�����,���H�� ���dH�%(H�E�1�ǅ8���ǅ0���mtar����8���xtq��8���x����8���ttv��8���t����8���ft{��8���f����8���:����8���c����;��;����;���;��;����;�h��;��;����;�MH�D;H��H�=�;�����[;�+H�:;H����H�=����������������H�� �����,���H��H�Ή��x�����8�����8�����������:��u*H��:H����H�=��k���������Q�����:��~*H��:H���!�H�=��6�������������V:H�H��H�� ���H�H�H��u5�`:��u*H�H:H���%�H�=d����������������7:��u*H�:H����H�=����������������9H�H��H�� ���H�H�H��@�����9����H��`���H��@���H��H�����x���%�=�u,H��9H��@���H�5�H�Ǹ�������������H��@���H�������H��H���H��H���u,H�@9H��@���H�5�H�Ǹ�5������������ǅ<���H�5�H�=39�^���H��P���H��P���H��0���H�Ѻ�H��������<���H��@�����<���H��P����u��u��u��u��u��u��u��u��u��u��u��u��u��u���x�����p�����h�����`�����H���,
+H�5�H�=����<���H��P���H��@���H��H���H���N��<���H��H���H�����H��P���H�������#8��t�8���H��`���H��H�=8��
+       8�6���H��X���H��X���u,H��7H��7H�5hH�Ǹ����������9�����7����H��X���H��4���H�Ѻ�H���������0�����H�=?�������4�����0���9�tJ��0�����H�=��������0�����4���H�7H�5
+                            H�Ǹ�������������H��X���H����H��X���H���V�����6����H��X���H��4���H�Ѻ�H��������4�����0���9�tv��0�����4���H��6H�5zH�Ǹ�}������������H��X���H��0���H�Ѻ�H������H��X���H���Q�����u$H��X���H���        H��X���H���/�����t���H��X���H���y����������UH��H��H��h���H��`���H��X�����T���dH�%(H�E�1��MH��p���u
+                                                       H�=��
+                                                            ���H��p���H��H�5�H���������H��p���H��H�5�H���_�����u��H��`���H�����H��H������H�����H������H�¸H���H��H��H�P�H�����H�f�/H��p���H�PH�����H��H���|���H������H�����H��H����
+H��p����@�dH������H���� H����H������H�����H��H���n      H�������T���H��X��������������������������������������������������������������������������������������������������������������H���H�Đ��T����H�������T���H��X��������������������������������������������������������������������������������������������������������������H���H�Đ��T���H��p����@<��H�����H�������H��x���H�������T���H��X��������������������������������������������������������������������������������������������������������������H���hH�Đ��T�����T���H��X���H�����H��x���H��������T���H��x���H���D���H��h���H������H��p���H��p����������T���H�u�dH34%(t���������UH��H�}��]���UH��AWAVAUATSH��XH������dH�%(H�E�1�H��H��H�������H������H������H������H������H��H������H������H������H�Ѻ�H�������������Hc�H��H������Hc�I��A�Hc�I��A�H��H��Hо�H��Hk�H��H�����H��H)�H��H9�tH��H��$���H���H)�H���H��t%�H�H�HH��H��H������������Hc�H������H�������H������H������H������H�Ѻ�H�������������%�������������%�=��WH������H������H��H������Hǅ����H������H������H��H������H������H������H������������H������I��I��H��H�="������H������H=�����H������H��H������H���~����H�H��H������H������H��H��H�������H������H������H�������H������H��H������H���~����H�H)�H������H������H���@����������%�=@uWH������H������H��H���I���H������H������������H������I��H��H�=)��g����=H������H������H��H�=-��C���H�������H������H������H�ܐH�E�dH3%(t����H�e�[A\A]A^A_]���UH��H��0H�}�u�H�U�dH�%(H�E�1�H�U�H�EH�ѺH�������EH�E�H�������E�H�U�H�E�H�Ѻ�H���~����E��E�Hc�H�M�H�EؾH���_����E�E�H�U�H�E(H�Ѻ�H���<����E�H�U�H�EhH�ѺH������E�E�H�u�dH34%(t��������UH��H��@H�}؉u�H�U�dH�%(H�E�1�H�U�H�EH�ѺH�������EH�E�H�������E�H�U�H�E�H�Ѻ�H�������E��E�Hc�H�U�H�E�H�ѺH���i����E�E�H�U�H�E(H�Ѻ�H���F����E�H�U�H�EhH�ѺH���%����H�U�H�E@H�ѺH�������EH�E�H�5�
+                          H������H�E��(�E�E�H�U�H�E�H�Ѻ�H��������E�H�E�H��������E�}��u�H�E�H���n����E�H�M�dH3
+                                                                                                             %(t��������UH��H��0H�}�u�H�U�dH�%(H�E�1�H�U�H�EH�ѺH���B����EH�E�H���"����E�H�U�H�E�H�Ѻ�H�������E��E�Hc�H�U�H�E�H�ѺH��������E�E�E�H�M�dH3
+                                                                                                                  %(t���������UH��H�� H�}�H�u�H�E�%��E�H�+H��u������H��*H��*�U�H��H�H�E�H������UH��H��H�}�H��*H��u�����H��*H��*H�U����H��H�H���D��AWL�=3'AVI��AUI��ATA��UH�-$'SL)�H������H��t1��L��L��D��A��H��H9�u�H�[]A\A]A^A_�ff.����f.����H��H����
+                                                                                �����H�H��Error: No tarfile specified
+:cxtf:Error: No mode specified
+Error: Multiple modes specified.
+Error: No directory target specified
+Specified target("%s") is not a directory.
+Specified target("%s") does not exist.
+wrError: Specified target("%s" does not exist.)
+%d
+MAGIC IS TRUE %d
+Error: Bad magic number (%d), should be %d.
+readdir...%s -- inode: %lu, mode: %o, mtime: %lu, size: %ld
+%s/ -- inode: %lu, mode %o, mtime: %lu
+%s inode: %lu
+�0���������������������a���4,���T;���t��������{����/������� ����@P����`����zRx
+                                                                             `���/D$4h���pFJ
+�%����E�C                                                                                   �?:*3$"\����t����`�����hE�C
+F����E�C
+P������E�C
+�     g����E�C
+p:���yE�C
+������E�C
+T'���]E�C
+Fd���OE�C
+D�����eF�I�E �E(�D0�H8�G@n8A0A(B BB�����������
+d&���o���
+7
+ Op    ������o���o���o����o M0@P`p�������� 0@P`pPGCC: (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.08X|���       8
+h
+p
+ ��d&0�1�2MM MOP P�
+                   0`!�7HPFMm�yM����������4��!P&�M� M�M��1�O<
+                                                             @&P&& | PBV%]`sPz|%O��`� P�d&���pP��\k$�*@PPGfzP��(���TP� P�2�%e��P�/BXPI\Ph�hm�!�wLP~���+����"y��PQ� 29"U@crtstuff.cderegister_tm_clones__do_global_dtors_auxcompleted.8061__do_global_dtors_aux_fini_array_entryframe_dummy__frame_dummy_init_array_entrymytar.cinodemap.c__FRAME_END____init_array_end_DYNAMIC__init_array_start__GNU_EH_FRAME_HDR_GLOBAL_OFFSET_TABLE___libc_csu_fini__stat_ITM_deregisterTMCloneTablestrcpy@@GLIBC_2.2.5set_inodefread@@GLIBC_2.2.5_edataget_inodefclose@@GLIBC_2.2.5Mapoptind@@GLIBC_2.2.5opendir@@GLIBC_2.2.5strlen@@GLIBC_2.2.5__stack_chk_fail@@GLIBC_2.4argumentnum_modesinput_hardlinkfgetc@@GLIBC_2.2.5closedir@@GLIBC_2.2.5x_flag__libc_start_main@@GLIBC_2.2.5calloc@@GLIBC_2.2.5__data_startstrcmp@@GLIBC_2.2.5optarg@@GLIBC_2.2.5fprintf@@GLIBC_2.2.5feof@@GLIBC_2.2.5t_flag__gmon_start____dso_handle_IO_stdin_used__xstat@@GLIBC_2.2.5readdir@@GLIBC_2.2.5__libc_csu_initf_flagfseek@@GLIBC_2.2.5__bss_startmaininput_dirc_flagfopen@@GLIBC_2.2.5perror@@GLIBC_2.2.5getopt@@GLIBC_2.2.5t_funcstrcat@@GLIBC_2.2.5input_fileexit@@GLIBC_2.2.5fwrite@@GLIBC_2.2.5__TMC_END__c_func_ITM_registerTMCloneTablex_func__cxa_finalize@@GLIBC_2.2.5stderr@@GLIBC_2.2.5.symtab.strtab.shstrtab.interp.note.gnu.property.note.gnu.build-id.note.ABI-tag.gnu.hash.dynsym.dynstr.gnu.version.gnu.version_r.rela.dyn.rela.plt.init.plt.got.plt.sec.text.fini.rodata.eh_frame_hdr.eh_frame.init_array.fini_array.dynamic.data.bss.comment#886XX$I|| W���o��a
+�00��1�1���2�2� M =�OP@                                   ��i��7q���o��>~����Bp p      �  p������`�d�d&d&
+                      P@h 0@+@@
+0       HJi�N
+
+0000000 746d 7261 20f7 0000 0000 0000 0009 0000
+0000010 6574 7473 6874 6572 ed65 0041 b600 53b9
+0000020 0065 0000 2d00 0021 0000 0000 1100 0000
+0000030 7400 7365 7474 7268 6565 6f2f 6b6b 742e
+0000040 7478 81a4 0000 b96f 6553 0000 0000 0000
+0000050 0000 0000 0000 212d 0000 0000 0000 0012
+0000060 0000 6574 7473 6874 6572 2f65 696c 6b6e
+0000070 742e 7478 20f8 0000 0000 0000 0010 0000
+0000080 6574 7473 6874 6572 2f65 6b6f 742e 7478
+0000090 81a4 0000 9644 6552 0000 0000 0006 0000
+00000a0 0000 0000 6548 6c6c 7f6f 212c 0000 0000
+00000b0 0000 0012 0000 6574 7473 6874 6572 2f65
+00000c0 6b6f 6b6b 742e 7478 81a4 0000 b96b 6553
+00000d0 0000 0000 0000 0000 0000 0000          
+00000dc

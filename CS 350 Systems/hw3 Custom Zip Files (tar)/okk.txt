@@ -1,0 +1,6 @@
+ssh tche284@lab0z.mathcs.emory.edu
+cat /tmp/labmachines
+
+sftp tche284@lab0z.mathcs.emory.edu
+
+cd cs350/hw3

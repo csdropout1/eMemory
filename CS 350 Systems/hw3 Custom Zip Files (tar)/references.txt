@@ -1,0 +1,45 @@
+• Buffered I/O: fopen(), fclose(), fread(), fwrite(), fseek(), feof() 
+• Reading directory entries: opendir(), readdir(), closedir()
+• File metadata: stat()/lstat(), chmod(), utimes(), gettimeofday() 
+• Making hard links and directories: link(), mkdir()
+
+struct dirent {
+    ino_t          d_ino;       /* Inode number */
+    off_t          d_off;       /* Not an offset; see below */
+    unsigned short d_reclen;    /* Length of this record */
+    unsigned char  d_type;      /* Type of file; not supported by all filesystem types */
+    char           d_name[256]; /* Null-terminated filename */
+};
+
+
+
+folder 1: 
+    txt file
+    folder 2:
+        txt2
+        folder 4:
+        txt3
+    folder 3:
+        txt4
+
+mytar:
+folder 1
+txtfile
+folder 2
+txt2
+folder 4
+txt3
+folder 3
+txt4
+
+if dir -- > create dir
+if txt --> attach to last dir
+
+folder1:
+    txtfile
+    folder 2:
+        txt2
+        folder 4:
+            txt3
+            folder: 3
+                txt4

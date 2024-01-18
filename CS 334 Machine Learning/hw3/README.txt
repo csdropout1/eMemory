@@ -1,0 +1,7 @@
+THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING CODE
+WRITTEN BY OTHER STUDENTS OR LARGE LANGUAGE MODELS SUCH AS CHATGPT.
+MICROL CHEN
+
+I collaborated with the following classmates for this homework:
+Steve Li
+Jonathan Kim
