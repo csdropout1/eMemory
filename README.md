@@ -29,6 +29,8 @@ A course on building interactive AIs - specifically conversational AIs, the main
 ### 6. CS 334 Machine Learning
 Machine learning basic. Relevant works includes implementing all the rudimentary models (KNN, DTC, Perceptron etc). Optimization and analysis of these models were covered in the course but was only superficially evaluated on assigments.
 
+Project Link: Video Game Sales Prediction: https://github.com/JKim0212/CS334-Machine-Learning-Project
+
 ### 7. CS 350 Systems 
 Basic OS functionality and memory manipulation through the use of C. Relevant work includes recreating malloc and basic zip files.
 
