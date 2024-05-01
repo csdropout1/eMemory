@@ -9,8 +9,6 @@ My coding conventions have not always been detailed, and some of these assignmen
 
 ** IF YOU ARE A CURRENT EMORY STUDENT, I WILL NOT BE RESPONSIBLE FOR ANY HONOR CODE VIOLATIONS. DO NOT LOOK OVER ANY OF MY ASSIGNMENTS BEFORE OBTAINING THE PROPER PERMISSION FROM YOUR PROFESSOR **
 
-(With that said, some assignments are not uploaded as of 1/17/2024 since I am currently taking those courses)
-
 ### 1. CS 170 Introduction to CS
 As the name suggests, this course introduced basic computer science concepts (for loops, while loops, if/else, and recurssion) using JAVA and turtle.
 
@@ -48,4 +46,5 @@ Course covered techniques for building better AI products for users. Relevant wo
 Cryptography algorithms and theory. Algorithm implementations and real world analysis. Implemented basic ciphers, LSFRs, and evaluated ECC.
 
 A little memory down Emory - all my relevant coursework for these last 4 years (coding only)
->>>>>>> a6a7c5056ea24a66cfe2841bc04143066c9e0cfc
+
+a6a7c5056ea24a66cfe2841bc04143066c9e0cfc
