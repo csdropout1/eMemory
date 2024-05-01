@@ -35,11 +35,17 @@ Basic OS functionality and memory manipulation through the use of C. Relevant wo
 ### 8. CS 370 Practicum 
 https://github.com/csdropout1/musAIc
 
-### 9. CS 470 Data Mining
+### 9. CS 385 AI Practicum
+https://github.com/guard-ai
+
+### 10. CS 470 Data Mining
 Assignments are practical implementations of basic datamining techniques like clustering, dimensional reduction, and data cleaning using python. The final project, which involves creating a custom search engine based on HITs, pageRank, and simRank can be found on https://github.com/csdropout1/edusearch.
 
-### 10. CS 485 Human-AI Interactive Design
+### 11. CS 485 Human-AI Interactive Design
 Course covered techniques for building better AI products for users. Relevant work revolved around prompting, customer acquisition, and user compatibility. Link to final project: https://github.com/ningk7/HAI-Daemon-Assistant.
+
+### 12. CS 485 Information Secrurity
+Cryptography algorithms and theory. Algorithm implementations and real world analysis. Implemented basic ciphers, LSFRs, and evaluated ECC.
 
 A little memory down Emory - all my relevant coursework for these last 4 years (coding only)
 >>>>>>> a6a7c5056ea24a66cfe2841bc04143066c9e0cfc
